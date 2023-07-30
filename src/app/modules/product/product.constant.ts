@@ -1,0 +1,1 @@
+export const productCategories = ["CPU Processor", "Motherboard", "RAM", "Power Supply Unit", "Storage Device", "Monitor", "Others"]
